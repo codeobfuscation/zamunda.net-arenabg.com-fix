@@ -252,7 +252,7 @@ zamunda_net_visit() {
     fi
     echo ""
     
-    open_url "https://zamunda.net/"
+    open_url "https://zamunda.net/bananas??"
     sleep 3
     show_menu
 }
@@ -269,7 +269,7 @@ zamunda_ch_visit() {
     fi
     echo ""
     
-    open_url "https://zamunda.ch/"
+    open_url "https://zamunda.ch/bananas??"
     sleep 3
     show_menu
 }
