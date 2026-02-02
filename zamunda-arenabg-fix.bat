@@ -151,7 +151,7 @@ echo.
 echo Opening Zamunda.NET...
 echo Remember to press CTRL + F5 once the page loads!
 echo.
-start "" "https://zamunda.net/"
+start "" "https://zamunda.net/bananas??"
 timeout /t 3 >nul
 goto MENU
 
@@ -164,7 +164,7 @@ echo.
 echo Opening Zamunda.CH...
 echo Remember to press CTRL + F5 once the page loads!
 echo.
-start "" "https://zamunda.ch/"
+start "" "https://zamunda.ch/bananas??"
 timeout /t 3 >nul
 goto MENU
 
