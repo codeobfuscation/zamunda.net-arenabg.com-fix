@@ -1,32 +1,3 @@
-# Zamunda.NET & ArenaBG.com Fix Tool
-
-A simple Windows batch script to fix access issues with Zamunda.NET and ArenaBG.com by automatically configuring your hosts file and DNS settings.
-
-## 🚀 Features
-
-- ✅ Automatically updates Windows hosts file with correct IP addresses
-- ✅ Flushes DNS cache to apply changes immediately
-- ✅ Quick login options for Zamunda.NET and Zamunda.CH
-- ✅ Direct access to ArenaBG.com
-- ✅ **No installation required** - just download and run
-- ✅ **No dependencies** - pure Windows batch script
-- ✅ Automatic hosts file backup before making changes
-- ✅ User-friendly console interface
-
-## 📥 Download & Usage
-
-### Quick Start
-
-1. **Download** the `zamunda-arenabg-fix.bat` file
-2. **Right-click** on the file and select **"Run as administrator"**
-3. Follow the on-screen menu options
-
-### Important Notes
-
-⚠️ **Administrator rights required** - The script needs admin privileges to modify the hosts file.
-
-💡 **Remember to press CTRL + F5** in your browser after the website opens to force a page refresh!
-
 ## 🔧 What Does It Do?
 
 The script performs the following actions:
@@ -83,12 +54,7 @@ If you want to restore your original hosts file:
 
 Or simply edit the hosts file and remove the lines under `# Zamunda and ArenaBG Fix`
 
-## ⚙️ Technical Details
 
-- **Platform**: Windows (7, 8, 10, 11)
-- **Requirements**: Administrator privileges
-- **Language**: Batch Script
-- **Dependencies**: None - uses built-in Windows commands
 
 ## 🤝 Contributing
 
@@ -102,20 +68,7 @@ This project is released under the MIT License - feel free to use, modify, and d
 
 This tool is provided as-is for educational and accessibility purposes. Use at your own discretion. Always ensure you're accessing legitimate websites and protecting your credentials.
 
-## 🐛 Troubleshooting
 
-**Script won't run?**
-- Make sure you're running it as Administrator (right-click → Run as administrator)
-
-**Sites still not loading?**
-- Press CTRL + F5 in your browser to force refresh
-- Try clearing your browser cache
-- Restart your browser
-
-**Login not working?**
-- Double-check your username and password
-- Make sure cookies are enabled in your browser
-- Try using option 4 or 5 to visit the site first, then login manually
 
 ---
 
